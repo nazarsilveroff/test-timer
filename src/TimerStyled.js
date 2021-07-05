@@ -2,13 +2,15 @@ import styled from "styled-components";
 
 export const TimerWraper = styled.div`
   font-family: "Share Tech Mono", monospace;
+  text-shadow: 0 0 20px rgba(10, 175, 230, 1), 0 0 20px rgba(10, 175, 230, 0);
+  font-weight: 900;
   text-align: center;
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   color: #daf6ff;
-  text-shadow: 0 0 20px rgba(10, 175, 230, 1), 0 0 20px rgba(10, 175, 230, 0);
+
   .time {
     letter-spacing: 0.05em;
     font-size: 80px;
