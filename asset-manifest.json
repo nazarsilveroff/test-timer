@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-timer/static/css/main.ae1365db.chunk.css",
+    "main.css": "/test-timer/static/css/main.a4cc327a.chunk.css",
     "main.js": "/test-timer/static/js/main.9461a7cf.chunk.js",
     "main.js.map": "/test-timer/static/js/main.9461a7cf.chunk.js.map",
     "runtime-main.js": "/test-timer/static/js/runtime-main.07f40bdd.js",
@@ -8,13 +8,13 @@
     "static/js/2.47d20da3.chunk.js": "/test-timer/static/js/2.47d20da3.chunk.js",
     "static/js/2.47d20da3.chunk.js.map": "/test-timer/static/js/2.47d20da3.chunk.js.map",
     "index.html": "/test-timer/index.html",
-    "static/css/main.ae1365db.chunk.css.map": "/test-timer/static/css/main.ae1365db.chunk.css.map",
+    "static/css/main.a4cc327a.chunk.css.map": "/test-timer/static/css/main.a4cc327a.chunk.css.map",
     "static/js/2.47d20da3.chunk.js.LICENSE.txt": "/test-timer/static/js/2.47d20da3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.07f40bdd.js",
     "static/js/2.47d20da3.chunk.js",
-    "static/css/main.ae1365db.chunk.css",
+    "static/css/main.a4cc327a.chunk.css",
     "static/js/main.9461a7cf.chunk.js"
   ]
 }
